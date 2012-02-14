@@ -1,3 +1,10 @@
+horizon (2012.0+e3-rcb2) maverick; urgency=low
+
+  * Add cherry-picked patch c0a3d85d3b0532de08799b02b9e7cf797804fb6e to
+    remove openstackx dependancies as remove-openstackx-dep.patch
+
+ -- RCB Builder <rcb-deploy@lists.rackspace.com>  Tue, 14 Feb 2012 14:02:51 -0600
+
 horizon (2012.0+e3-rcb1) maverick; urgency=low
 
   * Bump to essex-e3 from https://github.com/openstack/horizon.git,
