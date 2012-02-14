@@ -1,0 +1,7 @@
+horizon (2012.0+e3-rcb1) maverick; urgency=low
+
+  * Bump to essex-e3 from https://github.com/openstack/horizon.git,
+    revision 166ec2f29550bcc863813861314cf5709246e5b6
+
+ -- RCB Builder <rcb-deploy@lists.rackspace.com>  Mon, 13 Feb 2012 10:20:01 -0600
+
