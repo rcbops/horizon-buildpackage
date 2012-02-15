@@ -11,5 +11,5 @@ Package: horizon
 Architecture: all
 Homepage: https://github.com/cloudbuilders/openstack-dashboard
 XB-Python-Version: ${python:Versions}
-Depends: ${misc:Depends}, ${python:Depends}
+Depends: ${misc:Depends}, ${python:Depends}, python-datetime, python-mox
 Description: Openstack Dashboard Implementation

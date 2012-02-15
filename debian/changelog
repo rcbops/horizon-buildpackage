@@ -1,3 +1,9 @@
+horizon (2012.0+e3-rcb3) maverick; urgency=low
+
+  * add dep on python-mox and python-datetime
+
+ -- RCB Builder <rcb-deploy@lists.rackspace.com>  Wed, 15 Feb 2012 13:48:02 -0600
+
 horizon (2012.0+e3-rcb2) maverick; urgency=low
 
   * Add cherry-picked patch c0a3d85d3b0532de08799b02b9e7cf797804fb6e to
